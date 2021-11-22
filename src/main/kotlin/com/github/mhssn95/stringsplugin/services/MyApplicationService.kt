@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mhssn95.stringsplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mhssn95.stringsplugin.MyBundle
 
 class MyApplicationService {
 
